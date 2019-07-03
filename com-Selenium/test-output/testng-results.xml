@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36554" started-at="2019-03-11T11:01:32Z" finished-at="2019-03-11T11:02:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36554" started-at="2019-03-11T11:01:32Z" finished-at="2019-03-11T11:02:09Z">
+      <class name="comPackage.DriverClass">
+        <test-method status="PASS" signature="driverMethod()[pri:0, instance:comPackage.DriverClass@58fdd99]" name="driverMethod" duration-ms="36523" started-at="2019-03-11T16:31:32Z" finished-at="2019-03-11T16:32:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverMethod -->
+      </class> <!-- comPackage.DriverClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

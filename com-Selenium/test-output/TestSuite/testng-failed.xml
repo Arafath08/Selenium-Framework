@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [TestSuite]">
+  <test parallel="classes" name="Test1(failed)">
+    <classes>
+      <class name="comPackage.DriverClass">
+        <methods>
+          <include name="driverMethod"/>
+        </methods>
+      </class> <!-- comPackage.DriverClass -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
